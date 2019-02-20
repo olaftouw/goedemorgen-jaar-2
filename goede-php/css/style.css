@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+p{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+}
+p.tijdstip{
+	margin-top: 10%;
+	font-size: 300%;
+}
+p.tijd{
+	margin-top: 5%;
+	font-size: 200%;
+}
